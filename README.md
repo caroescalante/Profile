@@ -19,7 +19,7 @@ Actualmente me dedico a realizar proyectos y cursos para impulsar mis habilidade
 
 Aspiro a ser una Ingeniera en Sistemas y programadora, para proveer ***soluciones a problemáticas sociales y/o ambientales***. Mi sueño es poder ***liderar un equipo*** que haga un ***cambio en el mundo***, dejar mi huella y aporte es lo que mi más alto deseo. Ayudar en una causa en común de todos los humanos, o contribuir en algún ***proyecto de alto impacto***. Sin lugar a dudas, **la tecnología es mi lugar**.
 
-#¿Qué tecnologías utilizo?
+# ¿Qué tecnologías utilizo?
 
 El bootcamp de Henry me ha permitido adquirir conocimientos y experiencias sobre las tecnologías más utilizadas en el mercado hoy en día. No obstante, por mi cuenta, previo y post a esto, continué instruyendome y estudiando sobre el tema. El PF fue una instancia que me permitió navegar por nuevas lógicas, lenguajes y plataformas.
 Las que más utilizo actualmente en mis proyectos son las siguientes:
@@ -32,3 +32,16 @@ Las que más utilizo actualmente en mis proyectos son las siguientes:
 - Sequelize
 
 Claramente,HTML y CSS son parte de esto
+
+Fuera de lo que es el bootcamp y mis desarrollos actuales tengo conocimientos sobre PHP, C++, lenguaje C, typeScript y moongose
+
+
+
+<br/>
+
+***No dudes en contactarme!***
+Juntos podríamos lograr grandes aportes y avances. Con mi gran curiosidad, responsabilidad, compromiso y aprendizaje ágil, cambios positivos y recíproca alimentación lograrás observar en tu equipo.
+
+Email: caroescalante2521@gmail.com
+
+[**LinkedIn**](https://www.linkedin.com/in/carolina-escalante-548888201/)
