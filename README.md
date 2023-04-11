@@ -13,7 +13,7 @@ Me enamoré de la idea de resolver problemas, plasmando la realidad, modelando y
 Qué hermoso es ver que tu código tiene vida, ¿no?
 
 # ¿Qué hago?
-Actualmente me dedico a realizar proyectos y cursos para impulsar mis habilidades tecnológicas, y así poder avanzar en mi camino como programadora. Curso por la tarde-noche y, aunque a veces es un poco cansador,*** me fascina la idea de dedicarme a esto en mi futuro cercano y lejano***
+Actualmente me dedico a realizar proyectos y cursos para impulsar mis habilidades tecnológicas, y así poder avanzar en mi camino como programadora. Curso por la tarde-noche y, aunque a veces es un poco cansador, ***me fascina la idea de dedicarme a esto en mi futuro cercano y lejano***
 
 # ¿A dónde me dirijo?
 
