@@ -4,7 +4,7 @@
 # ¿Quién soy?
 Soy una ***Programadora Full Stack*** orientada al ***Back End*** y corrección de errores de Front End
 
-Estudio ***Ingeniería en Sistemas*** en la Universidad Tecnológica Nacional de Buenos Aires, y soy ***Técinca en Informática Personal y Profesional***.
+Estudio ***Ingeniería en Sistemas*** en la Universidad Tecnológica Nacional de Buenos Aires, y soy ***Técnica en Informática Personal y Profesional***.
 Me incursioné en el mundo de la tecnología a los 15 años en busca de un desafío y cosas nuevas por aprender. Quería enfrentarme a algo inédito donde no tuviera conocimientos previos y no me sintiera cómoda. Tal y como lo quise, encontré en allí mi pasión. 
 **La tecnología**.
 
