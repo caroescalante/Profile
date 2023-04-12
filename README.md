@@ -30,11 +30,11 @@ Las que más utilizo actualmente en mis proyectos son las siguientes:
 - ***JavaScript***
 - ***Express***
 - ***Redux***
-- Sequelize
+- ***Sequelize***
 
-Claramente,HTML y CSS son parte de esto
+Claramente, HTML y CSS son parte de esto
 
-Fuera de lo que es el bootcamp y mis desarrollos actuales tengo conocimientos sobre PHP, C++, lenguaje C, typeScript y moongose
+Fuera de lo que es el bootcamp y mis desarrollos actuales tengo conocimientos sobre PHP, C++, lenguaje C, typeScript, SQL, MySQL y moongose
 
 
 
