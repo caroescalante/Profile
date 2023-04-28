@@ -9,7 +9,7 @@ Estudio ***Ingeniería en Sistemas*** en la Universidad Tecnológica Nacional de
 Me incursioné en el mundo de la tecnología a los 15 años en busca de un desafío y cosas nuevas por aprender. Quería enfrentarme a algo inédito donde no tuviera conocimientos previos y no me sintiera cómoda. Tal y como lo quise, encontré allí mi pasión. 
 **La tecnología**.
 
-Me enamoré de la idea de resolver problemas, plasmando la realidad, modelando y creando sistemas que generen una solución.
+Me enamoré de la idea de resolver problemas plasmando la realidad, modelando y creando sistemas que generen una solución.
 
 Qué hermoso es ver que tu código tiene vida, ¿no?
 
