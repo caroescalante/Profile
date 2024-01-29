@@ -34,7 +34,15 @@ Las que más utilizo actualmente en mis proyectos son las siguientes:
 
 Claramente, HTML y CSS son parte de esto
 
-Fuera de lo que es el bootcamp y mis desarrollos actuales tengo conocimientos sobre PHP, C++, lenguaje C, typeScript, SQL, MySQL y moongose
+Fuera de lo que es el bootcamp, tengo conocimientos sobre PHP, C++, lenguaje C, typeScript, SQL, MySQL y moongose.
+
+En mi empleo actual como Programadora Jr, manejo:
+
+- ***PHP***
+- ***Cake PHP v2***
+- ***SQL***
+- ***Bootstrap***
+- ***Javascript***
 
 
 
@@ -43,6 +51,6 @@ Fuera de lo que es el bootcamp y mis desarrollos actuales tengo conocimientos so
 ***No dudes en contactarme!***
 Juntos podríamos lograr grandes aportes y avances. Con mi gran curiosidad, responsabilidad, compromiso y aprendizaje ágil, cambios positivos y recíproca alimentación lograrás observar en tu equipo.
 
-Email: caroescalante2521@gmail.com
+Email: cm.escalante59@gmail.com
 
 [**LinkedIn**](https://www.linkedin.com/in/carolina-escalante-548888201/)
